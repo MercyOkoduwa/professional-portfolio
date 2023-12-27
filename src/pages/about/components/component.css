@@ -1,0 +1,124 @@
+.intro-text {
+  color: #000;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 3.625rem;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 4rem; /* 141.379% */
+  margin-top: 0.7rem;
+}
+
+/* .left {
+  padding-top: 1rem;
+}
+
+.right {
+  padding-top: 1rem;
+} */
+
+.profileImage {
+  width: 60%;
+  bottom: -90px;
+  float: right;
+}
+
+/* .about-right {
+  border: 1px solid red;
+  position: relative;
+} */
+
+.leftcontain {
+  position: relative;
+}
+.aboutMan {
+  position: absolute;
+  bottom: 0;
+  left: -30px;
+  width: 100%;
+}
+
+.aboutscrollingdown {
+  /* float: right; */
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+
+.productDesigner {
+  font-family: Nunito;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  color: #fff;
+  position: absolute;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+
+.headD {
+  color: #707070;
+  font-family: Nunito;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 70px; /* 250% */
+}
+
+.aboutD-p1,
+.aboutD-p2,
+.aboutD-p3,
+.aboutD-p4 {
+  color: #182f43;
+  font-family: Nunito;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px; /* 142.857% */
+  margin-bottom: 10px;
+}
+
+.aboutD-p4 a {
+  color: #3171b9;
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 30px;
+  text-decoration-line: underline;
+}
+
+.company {
+  color: #3171b9;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+}
+
+.periodd {
+  color: rgba(24, 47, 67, 0.7);
+  font-family: Poppins;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.typeR {
+  color: #4c4c4c;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  margin-bottom: 4px;
+}
+
+.ppr {
+  font-weight: 900;
+  color: #000;
+  /* margin-top: 90px; */
+}
+

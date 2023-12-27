@@ -1,0 +1,16 @@
+.about {
+    margin: 0px;
+    padding: 0px;
+    /* min-height: 100vh; */
+}
+
+.about-banner {
+    /* min-height: 85vh; */
+    /* margin-bottom: 3rem; */
+    background: linear-gradient(179deg, #1C1B1B 7.63%, rgba(28, 27, 27, 0.74) 96.08%, rgba(28, 27, 27, 0.76) 115.77%);
+}
+
+.about-details {
+    background-color: #F2F2F2;
+}
+

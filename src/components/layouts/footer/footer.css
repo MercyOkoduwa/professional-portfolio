@@ -1,0 +1,132 @@
+.footer {
+  /* background-color: #4c4e51; */
+  background-color: #1b1b1c;
+  /* min-height: 7rem; */
+}
+
+.foot-wrap {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+.ignite {
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Nunito", sans-serif;
+  font-size: 70px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 50px;
+}
+
+.getIntouch {
+  color: #fff;
+  font-family: Nunito;
+  font-size: 19.172px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 21.09px;
+}
+
+.ch {
+  width: 53.683px;
+  height: 52.724px;
+  background-color: #eab945;
+  padding: 10px 10px 10px 0px;
+  align-items: center;
+  text-align: center;
+}
+
+.email,
+.phone {
+  /* display: flex; */
+  border-radius: 22.75px;
+  border: 0.91px solid #fff;
+  box-shadow: 0px 0.9100000262260437px 9.100000381469727px 0px
+    rgba(0, 0, 0, 0.23);
+  padding: 10.92px 23.66px;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  transition: all 0.4s ease;
+}
+
+.email {
+  margin-right: 1rem;
+}
+
+.phone {
+}
+
+.email a,
+.phone a {
+  text-decoration: none;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27.3px;
+}
+
+.email:hover,
+.phone:hover {
+  background-color: #EAB945;
+  border: 0.91px solid #EAB945;
+  transition: all 0.4s ease;
+}
+
+.email:hover a,
+.phone:hover a {
+  /* color: red; */
+
+}
+
+
+.social a{
+  color: #fff;
+  text-decoration: none;
+  margin-right: 20px;
+  font-family: Nunito;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  border-bottom: 1px solid #fff;
+}
+
+/* .copyR {
+  color: #fff;
+  font-family: Nunito;
+  font-size: 14px;
+  font-style: normal;
+  float: right;
+}
+
+.logoF {
+  float: right;
+} */
+
+
+
+.rf {
+  position: relative;
+  /* float: right; */
+}
+
+.logoF {
+  position: absolute;
+  right: 0;
+  top: -5.313rem;
+  width: 5rem;
+  float: right;
+} 
+
+.copyR {
+  /* position: absolute;
+  right: 0; */
+  color: #fff;
+  font-family: Nunito;
+  font-size: 14px;
+  font-style: normal;
+  float: right;
+  cursor: pointer;
+} 

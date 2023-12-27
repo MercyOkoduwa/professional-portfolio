@@ -1,0 +1,58 @@
+.home {
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+    /* cursor:url("./../../assets/paint-brush.png"),auto; */
+
+   
+}
+
+.banner {
+    background-image: url('./../../assets/shape.png'),url('./../../assets/shape.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: right 5%,left 100%; 
+    padding-bottom:6rem;
+    /* background-color: #63FCB8; */
+
+}
+
+.project-sportlight {
+    padding-top: 4rem;
+    background-color: #fff;
+}
+
+.skills {
+    padding-top: 4rem;
+    background-color: #fff;
+    padding-bottom: 4rem;
+}
+
+.aboutme {
+    padding-top: 6rem !important;
+    background-color: #fff;
+    padding-bottom: 4rem;
+}
+
+.skillsme {
+    padding-top: 2rem;
+    background-color: #FFFDFA;
+    padding-bottom: 6rem;
+}
+
+.certificationme {
+    padding-top: 3rem;
+    background-color: #fff;
+    padding-bottom: 6rem;
+}
+.experienceme {
+    padding-top: 3rem;
+    background-color: #FFFDFA;
+    padding-bottom: 4rem;
+}
+
+.educationme {
+    padding-top: 3rem;
+    background-color: #fff;
+    padding-bottom: 6rem;
+}

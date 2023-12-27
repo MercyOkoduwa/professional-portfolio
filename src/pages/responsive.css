@@ -1,0 +1,334 @@
+@media (min-width: 1481px) {
+    .x-l {
+        display: block;
+      }
+
+      .x-s {
+        display: none;
+      }
+}
+@media (max-width: 1480px) { 
+
+    .intro-text {
+        font-size: 2rem;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 2.5rem; 
+        margin-top: 0.7rem;
+      }
+
+      .invite {
+        font-size: 14px;
+        font-weight: 300;
+        line-height: 20px;
+        margin-top: 1rem;
+        margin-bottom: 1.875rem;
+      }
+
+      .arrowBack {
+        display: none;
+      }
+
+      .left {
+        padding-top: 3rem;
+      }
+
+      div.myleft {
+        padding: 0px !important;
+      }
+
+      .getInBtn {
+        width: 10rem;
+        padding: 5px 10px;
+        gap: 8.385px;
+      
+        font-size: 13px;
+        line-height: 23.852px;
+      }
+
+
+      .productImage {
+      width: 80%;
+      }
+
+      .x-s {
+        display: none;
+      }
+
+      
+}
+
+
+@media (max-width: 768px) { 
+  .rrole_cc_pm {
+    display: block !important;
+  }
+
+  .rrole_cc_rm {
+    display: none !important;
+  }
+
+  .date_cc_pm{
+    display: block !important;
+  }
+
+  .date_cc_rm {
+    display: none !important;
+  }
+}
+
+@media (max-width: 528px) {  
+
+    .appContainChild {
+        padding: 10px !important;
+    }
+
+    div.aboutme {
+        padding-top: 3rem !important;
+        padding-bottom: 2rem;
+    }
+
+    div.skillsme {
+        padding-top: 1rem !important;
+        /* background-color: #FFFDFA; */
+        padding-bottom: 3rem;
+    }
+
+    div.certificationme {
+        padding-top: 1rem;
+        background-color: #fff;
+        padding-bottom: 3rem;
+    }
+
+    div.experienceme {
+        padding-top: 1rem;
+        background-color: #FFFDFA;
+        padding-bottom: 2rem;
+    }
+    
+    div.educationme {
+        padding-top: 1rem;
+        background-color: #fff;
+        padding-bottom: 3rem;
+    }
+
+    .banner {
+        background-image: url('./../assets/shape.png') !important;
+        background-repeat: no-repeat !important;
+        background-attachment: scroll;
+        background-position: right 0% !important;
+        /* background-image: none !important;  */
+        padding-bottom:2rem !important;
+    }
+
+    .intro-text {
+      font-size: 1.4rem;
+      font-style: normal;
+      font-weight: 900;
+      line-height: 2rem; 
+      margin-top: 0.7rem;
+    }
+
+    .invite {
+      font-size: 13px;
+      font-weight: 300;
+      line-height: 22px;
+      margin-top: 1rem;
+      margin-bottom: 1.875rem;
+    }
+
+    .right .about_me_l {
+        font-size: 1.5rem;
+        font-weight: 900;
+        letter-spacing: 1.5px;
+        margin-bottom: 15px;
+      }
+
+      .exp-5i {
+        width: 50px;
+      }
+
+
+      .ex-5 {
+        margin-top: 3px;
+        margin-left: 15px;
+        font-size: 14px;
+      }
+
+      .x-l {
+        display: none;
+      }
+
+      .x-s {
+        display: block;
+      }
+
+      .right .prof_sum {
+        font-family: "Poppins", sans-serif;
+        /* font-weight: 100; */
+        font-size: 0.7rem;
+        line-height: 1.1rem;
+        margin-bottom: 30px;
+        text-align: justify !important;
+      }
+
+      .exp_h1 {
+        
+        font-size: 2rem;
+        /* font-style: normal; */
+        font-weight: 900;
+        /* line-height: 4.375rem; */
+        letter-spacing: 1.5px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+
+      .right {
+        padding-top: 2rem;
+        padding-left: 0px !important;
+        padding-right: 0rem;
+      }
+
+      .exp-heading {
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+      }
+
+      .card {
+        padding: 1rem 1rem 3rem 1rem;
+      }
+
+      .exp_h1 {
+        color: #000;
+        font-size: 2rem;
+        letter-spacing: 1.5px;
+        margin-bottom: 10px;
+        text-align: center;
+      }
+
+      .aws {
+        width: 100%;
+        /* max-height: 10rem; */
+      }
+
+      .ibm {
+        width: 100%;
+        /* max-height: 10rem; */
+      }
+
+      .sigma {
+        width: 100%;
+        /* max-height: 10rem; */
+      }
+      .axe {
+        width: 100%;
+        /* max-height: 10rem; */
+      }
+
+      .ibm_date {
+        margin-bottom: 0px !important;
+      }
+
+      .cert-card{
+        padding: 13px;
+        margin: 5px;
+        margin-bottom: 15px;
+       }
+
+    .cert-card h3 {
+        margin-bottom: 5px;
+       font-size: 16px;
+      }
+      
+      .cert_ibm  h3{
+        margin-bottom: 5px !important;
+      }
+      
+      .cert_ibm .cert_view  {
+        margin-top: 3px !important;
+      }
+      
+      .cert_iss {
+        font-family: "Nunito";
+      }
+      .cert_date {
+        font-family:"Poppins", sans-serif;
+        font-size: 14px;
+        font-weight: 700;
+      }
+
+      .exp_h1 {
+        font-size: 2rem;
+      }
+
+      .timeline-title_cc {
+        font-family: "Poppins", sans-serif;
+        font-weight: 900;
+        font-size: 1rem;
+      }
+
+      .timeline-info p .rrole_cc {
+        font-family:  "Poppins", sans-serif !important;
+        font-weight: 300 !important;
+        font-size: 10px;
+      }
+
+ 
+
+      div.timeline-content h3.timeline-title  span.date_cc{
+        /* margin-bottom: 15px !important; */
+        font-size: 16px !important;
+      }
+
+      div.timeline-content h4.timeline-title2 {
+        color: #eab945;
+        font-family: "Nunito";
+        margin-bottom: 1rem;
+        font-size: 14px;
+      }
+
+
+      .m_ul {
+        list-style-type: square !important;
+        margin-bottom: 20px;
+      }
+    
+      .m_ul li {
+        margin-bottom: 10px;
+        font-family: "Nunito";
+        font-size: 14px;
+        line-height: 20px;
+      }
+
+      .timeline-info span {
+        font-family: "Nunito" !important;
+        font-weight: 900 !important;
+        /* font-size: 1rem */
+
+        font-size: 12px;
+        font-weight: 700;
+        letter-spacing: 3px;
+        margin: 0 0 0.5em 0;
+        text-transform: uppercase;
+        white-space: normal;
+      }
+
+
+      .linkedIIN {
+        display: none;
+      }
+      
+   
+}
+
+
+@media (min-width: 769px) { 
+  p span.rrole_cc_rm {
+    display: none !important;
+  }
+
+
+ h3  span.date_cc_rm {
+  display: none !important;
+ }
+}
